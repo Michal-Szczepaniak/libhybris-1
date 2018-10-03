@@ -1,3 +1,4 @@
 [submodule "libhybris"]
-	path = libhybris
-	url = https://github.com/libhybris/libhybris
+        path = libhybris
+        url = https://github.com/Michal-Szczepaniak/libhybris
+        branch = with-shim
